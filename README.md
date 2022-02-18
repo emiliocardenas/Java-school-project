@@ -1,6 +1,5 @@
 # Java-school-projects
-## **School Projects Description:** 
-This repository with Java Object-Oriented Programs.
+## Description: Implementation of different Java Object-Oriented programs as well respective unit testing
 
 ### Projects included are:
 > TicTacToe Game
