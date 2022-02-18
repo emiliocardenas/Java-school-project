@@ -3,5 +3,5 @@
 
 ### Projects included are:
 > TicTacToe Game
-
+> Rational Number Interpretation and operations (add, substract, divide, mult, etc...)
 
