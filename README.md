@@ -1,4 +1,4 @@
 # Java-school-projects
-School Projects
+**School Projects Description:** This repository with object oriented programs that 
 
-This repository with object oriented programs that 
+
