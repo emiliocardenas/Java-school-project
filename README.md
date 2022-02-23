@@ -6,3 +6,5 @@
 
 > Rational Number interpretation and operations (add, substract, divide, mult, etc...)
 
+>WordCensus(takes in a book(txt. file) and can return the count of the ocurrence of a word, how many different words there are and more. 
+
